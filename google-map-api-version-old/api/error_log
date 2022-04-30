@@ -1,0 +1,145 @@
+[19-Apr-2022 01:51:55 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:39
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 39
+[19-Apr-2022 01:52:26 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 34
+[19-Apr-2022 01:59:08 America/Chicago] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 22
+[19-Apr-2022 02:00:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 21
+[19-Apr-2022 02:01:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 21
+[19-Apr-2022 02:02:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 21
+[19-Apr-2022 02:02:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 21
+[19-Apr-2022 02:03:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 21
+[19-Apr-2022 02:09:24 America/Chicago] PHP Warning:  include(class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:09:24 America/Chicago] PHP Warning:  include(class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:09:24 America/Chicago] PHP Warning:  include(): Failed opening 'class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:09:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 4
+[19-Apr-2022 02:09:57 America/Chicago] PHP Warning:  include(class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:09:57 America/Chicago] PHP Warning:  include(class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:09:57 America/Chicago] PHP Warning:  include(): Failed opening 'class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:09:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 4
+[19-Apr-2022 02:10:13 America/Chicago] PHP Warning:  include(class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:10:13 America/Chicago] PHP Warning:  include(class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:10:13 America/Chicago] PHP Warning:  include(): Failed opening 'class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:10:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 4
+[19-Apr-2022 02:10:29 America/Chicago] PHP Warning:  include(class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:10:29 America/Chicago] PHP Warning:  include(class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:10:29 America/Chicago] PHP Warning:  include(): Failed opening 'class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:10:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 4
+[19-Apr-2022 02:11:11 America/Chicago] PHP Warning:  include(/class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:11:11 America/Chicago] PHP Warning:  include(): Failed opening '/class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:11:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 4
+[19-Apr-2022 02:11:31 America/Chicago] PHP Warning:  include(./class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:11:31 America/Chicago] PHP Warning:  include(./class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:11:31 America/Chicago] PHP Warning:  include(): Failed opening './class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:11:31 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 4
+[19-Apr-2022 02:12:26 America/Chicago] PHP Warning:  include(./class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:12:26 America/Chicago] PHP Warning:  include(./class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:12:26 America/Chicago] PHP Warning:  include(): Failed opening './class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:12:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 4
+[19-Apr-2022 02:13:10 America/Chicago] PHP Warning:  include(./class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:13:10 America/Chicago] PHP Warning:  include(./class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:13:10 America/Chicago] PHP Warning:  include(): Failed opening './class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:13:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 4
+[19-Apr-2022 02:13:38 America/Chicago] PHP Warning:  include(./class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:13:38 America/Chicago] PHP Warning:  include(./class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:13:38 America/Chicago] PHP Warning:  include(): Failed opening './class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:13:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 4
+[19-Apr-2022 02:14:31 America/Chicago] PHP Warning:  include(class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:14:31 America/Chicago] PHP Warning:  include(class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:14:31 America/Chicago] PHP Warning:  include(): Failed opening 'class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:14:31 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 4
+[19-Apr-2022 02:16:53 America/Chicago] PHP Warning:  include(class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:16:53 America/Chicago] PHP Warning:  include(class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:16:53 America/Chicago] PHP Warning:  include(): Failed opening 'class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:16:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 5
+[19-Apr-2022 02:18:18 America/Chicago] PHP Warning:  require(/home2/websitebuilderle/public_html/gmaptool/api/class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:18:18 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/websitebuilderle/public_html/gmaptool/api/class.db.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:18:21 America/Chicago] PHP Warning:  require(/home2/websitebuilderle/public_html/gmaptool/api/class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:18:21 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/websitebuilderle/public_html/gmaptool/api/class.db.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:19:28 America/Chicago] PHP Warning:  include(/home2/websitebuilderle/public_html/gmaptool/api/../gmaptool/class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:19:28 America/Chicago] PHP Warning:  include(): Failed opening '/home2/websitebuilderle/public_html/gmaptool/api/../gmaptool/class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:19:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 5
+[19-Apr-2022 02:19:32 America/Chicago] PHP Warning:  include(/home2/websitebuilderle/public_html/gmaptool/api/../gmaptool/class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:19:32 America/Chicago] PHP Warning:  include(): Failed opening '/home2/websitebuilderle/public_html/gmaptool/api/../gmaptool/class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:19:32 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 5
+[19-Apr-2022 02:26:06 America/Chicago] PHP Warning:  include(/home2/websitebuilderle/public_html/gmaptool/api/../gmaptool/class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:26:06 America/Chicago] PHP Warning:  include(): Failed opening '/home2/websitebuilderle/public_html/gmaptool/api/../gmaptool/class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:26:06 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 5
+[19-Apr-2022 02:26:40 America/Chicago] PHP Warning:  include(/home2/websitebuilderle/public_html/gmaptool/api/../gmaptool/class.db.php): failed to open stream: No such file or directory in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:26:40 America/Chicago] PHP Warning:  include(): Failed opening '/home2/websitebuilderle/public_html/gmaptool/api/../gmaptool/class.db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 2
+[19-Apr-2022 02:26:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 5
+[20-Apr-2022 00:39:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 9
+[20-Apr-2022 00:40:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 9
+[20-Apr-2022 00:50:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 36
+[20-Apr-2022 00:54:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 36
+[20-Apr-2022 00:55:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 36
+[20-Apr-2022 00:55:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/websitebuilderle/public_html/gmaptool/api/state_api.php on line 36
